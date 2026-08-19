@@ -26,5 +26,5 @@ Where:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)<YOUR_GITHUB_USERNAME>/mcino-Introduction-to-Git-and-GitHub.git
-   cd mcino-Introduction-to-Git-and-GitHub
+   [git clone [https://github.com/](https://github.com/)<YOUR_GITHUB_USERNAME>/mcino-Introduction-to-Git-and-GitHub.git
+   cd mcino-Introduction-to-Git-and-GitHub](https://github.com/taimooraliwaris00/simple-interest-calculator.git)
