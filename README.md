@@ -26,4 +26,4 @@ Where:
 
 1. **Clone the repository:**
    ```bash
-   [git clone https://github.com/taimooraliwaris00/simple-interest-calculator.git]
+   git clone https://github.com/taimooraliwaris00/simple-interest-calculator.git
